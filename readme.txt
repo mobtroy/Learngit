@@ -1,2 +1,2 @@
-﻿git is a version control system
-git  ia  a free software
+﻿git is a distribute version control system
+git  ia  free software
